@@ -62,13 +62,13 @@
 <script>
 /* ====== ใส่ config ของมึงตรงนี้ ====== */
 const firebaseConfig = {
-  apiKey: "AIzaSyCaYniMMhbjmgtpdcRE1efJzqV5J4el50c",
-  authDomain: "communication-calling.firebaseapp.com",
-  databaseURL: "https://communication-calling-default-rtdb.firebaseio.com",
-  projectId: "communication-calling",
-  storageBucket: "communication-calling.firebasestorage.app",
-  messagingSenderId: "828697710817",
-  appId: "1:828697710817:web:cfd6418cb00da89a4a67a0"
+  apiKey: "AIzaSyAhnZF4kmaem05yZeCicqTbtJn7tUOEOsU",
+  authDomain: "voice-room-firebase-38891.firebaseapp.com",
+  databaseURL: "https://voice-room-firebase-38891-default-rtdb.firebaseio.com",
+  projectId: "voice-room-firebase-38891",
+  storageBucket: "voice-room-firebase-38891.firebasestorage.app",
+  messagingSenderId: "673188196122",
+  appId: "1:673188196122:web:de333d2acde11bf213c6a3",
 };
 firebase.initializeApp(firebaseConfig);
 const db = firebase.database();
