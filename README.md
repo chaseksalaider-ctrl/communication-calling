@@ -22,7 +22,7 @@
 <body>
 
 <div class="card">
-  <h1>ห้องเสียงลับ (ทดลอง) — โมดุล2</h1>
+  <h1>ห้องเสียงลับ (ทดลอง) — โมดุล3</h1>
 
   <div id="joinPane">
     <div style="display:flex;gap:8px;align-items:center">
